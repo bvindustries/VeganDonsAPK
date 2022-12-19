@@ -2,7 +2,7 @@ import java.util.Locale;
 import java.util.ResourceBundle;
 import java.util.Scanner;
 
-public class VeganDonApp {
+public class VeganDonsAPK {
   public static void main(String[] args) {
     // Set default language to English
     Locale currentLocale = Locale.ENGLISH;
